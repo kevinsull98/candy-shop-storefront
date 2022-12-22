@@ -3,11 +3,11 @@
 @import '~antd/dist/antd.dark.css';
 
 :root {
-  --main-background-color: #343a50;
-  --card-background-color: #51576d;
-  --card-background-lighter-color: #7a7f92;
-  --main-text-color: #f7f6f4;
-  --title-text-color: #3cba8b;
+  --main-background-color: black;
+  --card-background-color: black;
+  --card-background-lighter-color: black;
+  --main-text-color: black;
+  --title-text-color: black;
 }
 
 body {
@@ -17,12 +17,12 @@ body {
 
   margin: 0;
   font-family: 'Helvetica', Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 17px;
+  line-height: 2;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #303030;
-  color: #ffffff;
+  background-color: #0e8b10;
+  color: white;
 }
 
 code {
